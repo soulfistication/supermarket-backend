@@ -1,0 +1,13 @@
+node_modules
+.DS_Store
+
+# Elixir
+/_build/
+/deps/
+*.ez
+.elixir_ls/
+erl_crash.dump
+*.beam
+/config/*.secret.exs
+/priv/static/assets/
+/assets/node_modules/
